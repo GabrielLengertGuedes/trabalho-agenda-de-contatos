@@ -1,3 +1,5 @@
+Nomes: Anttonio Maccagnini e Gabriel Guedes
+
 #include <stdio.h>
 #include <stdlib.h>
 #include <string.h>
